@@ -1,1 +1,1 @@
-This repository contains the notebooks from the book Understanding Deep Learning by Simon J.D Prince that covers the deep learning fundamentals to understanding the transformers. 
+This repository contains the jupyter notebooks from the book Understanding Deep Learning by Simon J.D Prince that covers the deep learning fundamentals to understanding the transformers. My code notebooks while reading the book and coding it from scratch. 
